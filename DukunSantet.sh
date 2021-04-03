@@ -34,7 +34,7 @@ read e
 clear
 echo $l"Target Dengan Nama $t Sedang Di Santet Cuk"
 sleep 10
-echo $l"Bentar tod Si $t lagi di tusuk Pake $s di atas $b nya"
+echo $l"Bentar tod Si $t lagi di tusuk Pake $s di $b nya"
 echo""
 sleep 10
 echo $l"Ohh Nampaknya Si $t Kesakitan Pada Bagian $b"
