@@ -53,7 +53,7 @@ echo $i" Sukses!! Btw Lu Ta'ziyah Sana Ke Rumah Si $t, Kasian Cuk, Siapa Tau Lu 
 echo $cy ">>DOSA TANGGUNG SENDIRI TOD!1!1!"
 echo $cy ">>INGAT SANTET ITU DI LARANG AGAMA CUK"
 echo $i "[!] JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA [!]"
-echo $cy ">>WhatsApp  : 082134566596"
-echo $cy ">>Instagram : @Akku_Santuy"
+echo $ku ">>WhatsApp  : 082134566596"
+echo $ku ">>Instagram : @Akku_Santuy"
 echo ""
 exit
