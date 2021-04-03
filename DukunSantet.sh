@@ -20,19 +20,19 @@ bi='\033[34;1m' #biru
  echo $l"     {}  /  \_/\=/\_/  \ "
 echo ""
 echo ""
-echo -n $cy"Masukan Nama Target Santet Cuk😈: "
+echo -n $cy">>Masukan Nama Target Santet Cuk😈: "
 read t
 echo $pur"<•===========================•>" 
-echo -n $cy"Mau Nyantet Di Bagian Mana Cuk?: "
+echo -n $cy">>Mau Nyantet Di Bagian Mana Cuk?: "
 read b
 echo $pur"<•===========================•>" 
-echo -n $cy"mau senjata apa? golok? gergaji? pisau?: "
+echo -n $cy">>mau senjata apa? golok? gergaji? pisau? jarum?: "
 read s
 echo $pur"<•===========================•>"
-echo -n $pur" Enter untuk memulai santet Cuk "
+echo -n $pur"  >>>Enter untuk memulai santet Cuk<<< "
 read e
 clear
-echo $l"Target Dengan Nama $t Sedang Di Santet Cuk"
+echo $l">>>Target Dengan Nama $t Sedang Di Santet Cuk<<<"
 sleep 10
 echo $l"Bentar tod Si $t lagi di tusuk Pake $s di $b nya"
 echo""
